@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hapis Tavla</string>
+
+    <!--
+        AdMob TEST kimlikleri (Google'ın resmi örnek kimlikleri).
+        Yayına çıkmadan önce kendi AdMob hesabındaki gerçek kimliklerle değiştir:
+          admob_app_id          -> "ca-app-pub-XXXXXXXXXXXXXXXX~YYYYYYYYYY"
+          admob_banner_unit_id  -> "ca-app-pub-XXXXXXXXXXXXXXXX/ZZZZZZZZZZ"
+        Test kimlikleriyle gerçek reklam gösterilmez ve gelir de olmaz; geliştirme sırasında
+        kendi gerçek kimliklerinle reklama tıklamak hesabının askıya alınmasına yol açabilir.
+    -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

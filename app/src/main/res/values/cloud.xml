@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Google / Facebook ile giriş ve bulut kaydı ayarları.
+  Hepsi BOŞ bırakılırsa oyun misafir olarak sorunsuz çalışır (hesap özelliği kapalı kalır).
+  Nasıl doldurulacağı için KURULUM_GIRIS.md dosyasına bak.
+-->
+<resources>
+    <string name="firebase_api_key" translatable="false"></string>
+    <string name="firebase_database_url" translatable="false"></string>
+    <string name="google_client_id" translatable="false"></string>
+    <string name="google_client_secret" translatable="false"></string>
+    <string name="facebook_app_id" translatable="false"></string>
+    <string name="facebook_client_token" translatable="false"></string>
+</resources>
